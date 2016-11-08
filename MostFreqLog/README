@@ -1,0 +1,3 @@
+This project finds the most frequent log regularly in a time gap of x past the last y duration.
+It tries to calculat this in efficient manner. It does this by mapping all the related logs and then finding most frequent log 
+using heap.
